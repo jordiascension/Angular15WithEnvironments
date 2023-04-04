@@ -28,4 +28,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 ## Gist Example
-{% gist 5555251 %}
+https://gist.github.com/jordiascension/3db0e313ed4d3cce4eb3b9a7daab4f31?plain=1
+
+
